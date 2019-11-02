@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16207b67-dfe4-43b8-a4a0-5b90c77c715f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/基础知识/决策树/DecisionTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础知识/朴素贝叶斯/bayes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +19,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/基础知识/knn/knn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="95" column="12" lean-forward="true" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="12" />
+            <state relative-caret-position="1900">
+              <caret line="95" column="12" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/基础知识/决策树/DecisionTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -29,13 +41,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/基础知识/决策树/DecisionTree.py">
+        <entry file="file://$PROJECT_DIR$/基础知识/朴素贝叶斯/bayes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="124" selection-start-line="124" selection-end-line="124" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -58,13 +67,14 @@
         <option value="$PROJECT_DIR$/基础知识/knn/knn.py" />
         <option value="$PROJECT_DIR$/基础知识/决策树.py" />
         <option value="$PROJECT_DIR$/基础知识/决策树/DecisionTree.py" />
+        <option value="$PROJECT_DIR$/基础知识/朴素贝叶斯/bayes.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="671" />
-    <option name="y" value="31" />
-    <option name="width" value="1002" />
+    <option name="x" value="709" />
+    <option name="y" value="52" />
+    <option name="width" value="731" />
     <option name="height" value="663" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -90,7 +100,7 @@
               <item name="nlp学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp学习" type="462c0819:PsiDirectoryNode" />
               <item name="基础知识" type="462c0819:PsiDirectoryNode" />
-              <item name="决策树" type="462c0819:PsiDirectoryNode" />
+              <item name="朴素贝叶斯" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -114,6 +124,34 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="bayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="nlp学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础知识/朴素贝叶斯" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础知识/朴素贝叶斯/bayes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bayes" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -128,7 +166,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="671" y="31" width="1002" height="663" extended-state="0" />
+    <frame x="709" y="52" width="731" height="663" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24974516" />
@@ -136,7 +174,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -151,13 +189,11 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/基础知识/决策树.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/决策树.py" />
     <entry file="file://$PROJECT_DIR$/基础知识/knn/knn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="95" column="12" lean-forward="true" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="12" />
+        <state relative-caret-position="1900">
+          <caret line="95" column="12" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="12" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
@@ -166,11 +202,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/基础知识/决策树/DecisionTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
+        <state relative-caret-position="459">
           <caret line="124" selection-start-line="124" selection-end-line="124" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/朴素贝叶斯/bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
         </state>
       </provider>
     </entry>
