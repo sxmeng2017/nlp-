@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16207b67-dfe4-43b8-a4a0-5b90c77c715f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/基础知识/朴素贝叶斯/bayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础知识/Logistic/logistic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础知识/支持向量机/SVM.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,35 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础知识/knn/knn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1900">
-              <caret line="95" column="12" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础知识/决策树/DecisionTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="124" selection-start-line="124" selection-end-line="124" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/基础知识/朴素贝叶斯/bayes.py">
+        <entry file="file://$PROJECT_DIR$/基础知识/支持向量机/SVM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+            <state relative-caret-position="-4678">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#143#180#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,12 +48,14 @@
         <option value="$PROJECT_DIR$/基础知识/决策树.py" />
         <option value="$PROJECT_DIR$/基础知识/决策树/DecisionTree.py" />
         <option value="$PROJECT_DIR$/基础知识/朴素贝叶斯/bayes.py" />
+        <option value="$PROJECT_DIR$/基础知识/Logistic/logistic.py" />
+        <option value="$PROJECT_DIR$/基础知识/支持向量机/SVM.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="709" />
-    <option name="y" value="52" />
+    <option name="x" value="682" />
+    <option name="y" value="23" />
     <option name="width" value="731" />
     <option name="height" value="663" />
   </component>
@@ -100,7 +82,7 @@
               <item name="nlp学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp学习" type="462c0819:PsiDirectoryNode" />
               <item name="基础知识" type="462c0819:PsiDirectoryNode" />
-              <item name="朴素贝叶斯" type="462c0819:PsiDirectoryNode" />
+              <item name="支持向量机" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,15 +148,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="709" y="52" width="731" height="663" extended-state="0" />
+    <frame x="682" y="23" width="731" height="663" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24974516" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24929577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924694" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -212,8 +194,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/基础知识/朴素贝叶斯/bayes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+        <state relative-caret-position="693">
+          <caret line="70" column="36" lean-forward="true" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/Logistic/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="58" column="28" lean-forward="true" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/支持向量机/SVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4678">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#143#180#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
