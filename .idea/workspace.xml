@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16207b67-dfe4-43b8-a4a0-5b90c77c715f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/基础知识/Adaboost/adaboost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础知识/回归/Regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础知识/树回归/regTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/基础知识/支持向量机/SVM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -35,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/基础知识/回归/Regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="224">
+              <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/基础知识/树回归/regTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="160" selection-start-line="160" selection-end-line="160" />
             </state>
           </provider>
         </entry>
@@ -67,11 +75,12 @@
         <option value="$PROJECT_DIR$/基础知识/支持向量机/SVM.py" />
         <option value="$PROJECT_DIR$/基础知识/Adaboost/adaboost.py" />
         <option value="$PROJECT_DIR$/基础知识/回归/Regression.py" />
+        <option value="$PROJECT_DIR$/基础知识/树回归/regTree.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="729" />
+    <option name="x" value="709" />
     <option name="y" value="27" />
     <option name="width" value="731" />
     <option name="height" value="663" />
@@ -99,7 +108,7 @@
               <item name="nlp学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp学习" type="462c0819:PsiDirectoryNode" />
               <item name="基础知识" type="462c0819:PsiDirectoryNode" />
-              <item name="回归" type="462c0819:PsiDirectoryNode" />
+              <item name="树回归" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,7 +174,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="729" y="27" width="731" height="663" extended-state="0" />
+    <frame x="709" y="27" width="731" height="663" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24929577" />
@@ -223,13 +232,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基础知识/支持向量机/SVM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/基础知识/Adaboost/adaboost.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -239,8 +241,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/基础知识/回归/Regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="224">
+          <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/支持向量机/SVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础知识/树回归/regTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
         </state>
       </provider>
     </entry>
