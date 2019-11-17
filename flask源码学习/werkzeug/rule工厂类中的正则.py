@@ -1,5 +1,7 @@
 """
 结果实验可以得出结论？：只能管括号外部的，在括号内的不可以被忽略
+工厂类先有个模板类，然后是工厂类，然后是rule类。rule保证传入的网址能被匹配切割为
+args,kwargs然后其中的值为python可用的值。
 """
 
 import re
@@ -71,6 +73,8 @@ pa = r'(?:\d)([a-z])'
 s = '3a'
 res = re.compile(pa).match(s).group(1)
 print(res) # a
+
+print('#' + '*'*7)
 """
 下面这种没有被忽略
 """
@@ -78,6 +82,8 @@ pa = r'(?:(\d))([a-z])'
 s = '3a'
 res = re.compile(pa).match(s).group(1)
 print(res) # 3
+
+print('#' + '*'*7)
 """
 下面这种z被忽略
 """
@@ -85,3 +91,5 @@ pa = r'(?:(\d)[a-z])([a-z])'
 s = '3za'
 res = re.compile(pa).match(s).group(2)
 print(res) # a
+
+print('#' + '*'*7)
