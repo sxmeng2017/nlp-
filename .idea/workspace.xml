@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16207b67-dfe4-43b8-a4a0-5b90c77c715f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flask源码学习/greelet/greenlet的介绍" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask源码学习/greelet/官方例子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask源码学习/python自带方法/example_of___slot__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask源码学习/python自带方法/example_of___unicode__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask源码学习/werkzeug/local的学习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask源码学习/werkzeug/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/nlp学习.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nlp学习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask源码学习/jinja2/example_of_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask源码学习/werkzeug/rule工厂类.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,52 +12,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="nlp学习" />
+  </component>
   <component name="FileColors">
     <fileColor scope="All" color="Orange" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask源码学习/werkzeug/local的学习.py">
+        <entry file="file://$PROJECT_DIR$/flask源码学习/jinja2/example_of_template.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask源码学习/greelet/greenlet的介绍">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask源码学习/greelet/官方例子.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask源码学习/python自带方法/example_of___unicode__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="60">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/flask源码学习/python自带方法/example_of___slot__.py">
+        <entry file="file://$PROJECT_DIR$/flask源码学习/werkzeug/rule工厂类.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="20">
+              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -97,12 +68,14 @@
         <option value="$PROJECT_DIR$/flask源码学习/greelet/官方例子.py" />
         <option value="$PROJECT_DIR$/flask源码学习/werkzeug/local的学习.py" />
         <option value="$PROJECT_DIR$/flask源码学习/python自带方法/example_of___slot__.py" />
+        <option value="$PROJECT_DIR$/flask源码学习/jinja2/example_of_template.py" />
+        <option value="$PROJECT_DIR$/flask源码学习/werkzeug/rule工厂类.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="786" />
-    <option name="y" value="209" />
+    <option name="x" value="262" />
+    <option name="y" value="76" />
     <option name="width" value="1373" />
     <option name="height" value="877" />
   </component>
@@ -129,6 +102,12 @@
               <item name="nlp学习" type="462c0819:PsiDirectoryNode" />
               <item name="flask源码学习" type="462c0819:PsiDirectoryNode" />
               <item name="greelet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nlp学习" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp学习" type="462c0819:PsiDirectoryNode" />
+              <item name="flask源码学习" type="462c0819:PsiDirectoryNode" />
+              <item name="jinja2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nlp学习" type="b2602c69:ProjectViewProjectNode" />
@@ -175,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example_of___slot__">
+  <component name="RunManager" selected="Python.rule工厂类">
     <configuration name="官方例子" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="nlp学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example_of___unicode__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example_of_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="nlp学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask源码学习/python自带方法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask源码学习/jinja2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask源码学习/python自带方法/example_of___unicode__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask源码学习/jinja2/example_of_template.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,19 +218,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for 官方例子.test1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="rule工厂类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="nlp学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask源码学习/greelet" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask源码学习/werkzeug" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;官方例子.test1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask源码学习/werkzeug/rule工厂类.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in 官方例子.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -271,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rule工厂类" />
+        <item itemvalue="Python.example_of_template" />
         <item itemvalue="Python.example_of___slot__" />
         <item itemvalue="Python.官方例子" />
         <item itemvalue="Python tests.pytest in 官方例子.py" />
-        <item itemvalue="Python tests.pytest for 官方例子.test1" />
-        <item itemvalue="Python.example_of___unicode__" />
       </list>
     </recent_temporary>
   </component>
@@ -322,12 +307,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="602" y="218" width="1373" height="877" extended-state="0" />
+    <frame x="262" y="76" width="1373" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49748743" visible="true" weight="0.1841716" />
-      <window_info id="Structure" order="1" sideWeight="0.5025126" side_tool="true" visible="true" weight="0.1841716" />
-      <window_info id="Favorites" order="2" sideWeight="0.5008375" side_tool="true" weight="0.1841716" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.88274705" visible="true" weight="0.1841716" />
+      <window_info id="Structure" order="1" sideWeight="0.50586265" side_tool="true" weight="0.1841716" />
+      <window_info id="Favorites" order="2" sideWeight="0.11725293" side_tool="true" weight="0.1841716" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23949045" />
@@ -447,6 +432,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask源码学习/jinja2/example_of_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask源码学习/werkzeug/rule工厂类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
         </state>
       </provider>
     </entry>
