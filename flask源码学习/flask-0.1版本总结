@@ -1,0 +1,14 @@
+从最早的版本可以看出来
+flask的搭建
+1.flask服务器是根据werkzeug搭建出来的，werkzeug提供了route，map，rule概念的实现
+2.werkzeug是根据httpserver类实现的。httpserver提供服务器程序支持，werkzeug完成了
+网站地图，重定向等网站的网络连接过程。
+3.flask的模板渲染是依靠jinja完成的。jinja负责将获取到的数据转变为可读的网页html
+flask对网页的处理
+flask对网页是分层级的，首先当然的route方法，该方法能把不同站点分开，实现不同的功能
+其次是endpoint，请求是先被分发到对应站点，然后再根据站点的endpoint去寻找处理自己的函数
+这样子，将站点-函数，中间又隔了一层变为了站点-endpoint-函数。查资料，这样做的好处是
+在写大型应用的程序时，函数名可能会出现重复，而用endpoint可以在函数名重复时避免出错
+当然endpoint不能重名。而endpoint这个用处会使写blueprint时方便一点
+（但这个好处可以通过注意函数名来规避
+总结下来就是werkzeug建立网页底层，负责收发数据；jinja负责渲染模板
