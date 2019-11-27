@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16207b67-dfe4-43b8-a4a0-5b90c77c715f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/类的设计/功能和对象拆分/功能和对象的拆分" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/类的设计/功能和对象拆分/羊.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/类的设计/功能和对象拆分/羊.py" beforeDir="false" afterPath="$PROJECT_DIR$/类的设计/功能和对象拆分/羊.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/类的设计/功能和对象拆分/羊.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+            <state relative-caret-position="-1010">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -79,8 +77,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="281" />
-    <option name="y" value="36" />
+    <option name="x" value="208" />
+    <option name="y" value="34" />
     <option name="width" value="1373" />
     <option name="height" value="877" />
   </component>
@@ -317,10 +315,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="281" y="36" width="1373" height="877" extended-state="0" />
+    <frame x="208" y="34" width="1373" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.88274705" visible="true" weight="0.1841716" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.88274705" weight="0.1841716" />
       <window_info id="Structure" order="1" sideWeight="0.50586265" side_tool="true" weight="0.1841716" />
       <window_info id="Favorites" order="2" sideWeight="0.11725293" side_tool="true" weight="0.1841716" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -489,8 +487,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/类的设计/功能和对象拆分/羊.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        <state relative-caret-position="-1010">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
