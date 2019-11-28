@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16207b67-dfe4-43b8-a4a0-5b90c77c715f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/类的设计/功能和对象拆分/羊.py" beforeDir="false" afterPath="$PROJECT_DIR$/类的设计/功能和对象拆分/羊.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/类的设计/数据结构类/数据结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/类的设计/数据结构类/数据结构类设计总结" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/类的设计/数据结构类/编写技巧" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +20,7 @@
     <fileColor scope="All" color="Orange" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/类的设计/功能和对象拆分/功能和对象的拆分">
           <provider selected="true" editor-type-id="text-editor">
@@ -27,11 +30,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/类的设计/功能和对象拆分/羊.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1010">
+            <state relative-caret-position="-822">
               <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类的设计/数据结构类/数据结构类设计总结">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类的设计/数据结构类/数据结构.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="45" column="55" selection-start-line="36" selection-start-column="4" selection-end-line="45" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/类的设计/数据结构类/编写技巧">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -73,12 +99,14 @@
         <option value="$PROJECT_DIR$/flask源码学习/flask-0.1版本总结" />
         <option value="$PROJECT_DIR$/类的设计/功能和对象的拆分" />
         <option value="$PROJECT_DIR$/类的设计/功能和对象拆分/羊.py" />
+        <option value="$PROJECT_DIR$/类的设计/数据结构类/数据结构.py" />
+        <option value="$PROJECT_DIR$/类的设计/数据结构类/编写技巧" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="208" />
-    <option name="y" value="34" />
+    <option name="x" value="643" />
+    <option name="y" value="23" />
     <option name="width" value="1373" />
     <option name="height" value="877" />
   </component>
@@ -104,7 +132,7 @@
               <item name="nlp学习" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp学习" type="462c0819:PsiDirectoryNode" />
               <item name="类的设计" type="462c0819:PsiDirectoryNode" />
-              <item name="功能和对象拆分" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构类" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.羊">
+  <component name="RunManager" selected="Python.example_of___slot__">
     <configuration name="官方例子" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="nlp学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,7 +292,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.羊" />
         <item itemvalue="Python.rule工厂类" />
         <item itemvalue="Python.example_of_template" />
         <item itemvalue="Python.example_of___slot__" />
@@ -315,15 +342,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="208" y="34" width="1373" height="877" extended-state="0" />
+    <frame x="643" y="23" width="1373" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.88274705" weight="0.1841716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.88274705" visible="true" weight="0.1841716" />
       <window_info id="Structure" order="1" sideWeight="0.50586265" side_tool="true" weight="0.1841716" />
       <window_info id="Favorites" order="2" sideWeight="0.11725293" side_tool="true" weight="0.1841716" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23949045" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23949045" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -331,7 +358,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32866243" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32866243" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32866243" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32866243" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -487,8 +514,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/类的设计/功能和对象拆分/羊.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1010">
+        <state relative-caret-position="-822">
           <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类的设计/数据结构类/数据结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="45" column="55" selection-start-line="36" selection-start-column="4" selection-end-line="45" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类的设计/数据结构类/数据结构类设计总结">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类的设计/数据结构类/编写技巧">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
