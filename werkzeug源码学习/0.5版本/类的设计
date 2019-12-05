@@ -1,0 +1,7 @@
+util里的FileStorage类以及之前学习的rule，map类
+都有上下继承过程中带有的类属性进行上下层类的沟通的设计。
+
+但是目前来看FileStorage类中self.readline属性不明依旧不清楚其来源
+从其作为iter的输入来看，应该为函数，或者实现了__call__方法的对象
+应该是不断读取文件中readline方法，直到读取值为''
+
